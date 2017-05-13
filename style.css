@@ -1,0 +1,25 @@
+* {
+    background-color: #d3e0f7;
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+button {
+  background-color: #181842;
+  border-radius: 6px;
+  border: none;
+  color: #c72e45;
+  padding: 10px;
+  text-transform: uppercase;
+  width: 200px;
+  cursor: pointer;
+}
+#placeholder {
+  height: 100px;
+  width: 100px;
+  padding: 50px;
+  margin: 50px auto;
+  border: 10px solid #181842;
+  border-radius: 10px;
+  font-size:80px;
+  background-color: #c72e45;
+}
